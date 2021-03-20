@@ -1,0 +1,13 @@
+<resources>
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light">
+        <item name="android:colorBackground">@color/MENU_POPUP_BACK_COLOR</item>
+        <item name="android:textColor">@color/MENU_POPUP_ITEMS_COLOR</item>
+    </style>
+
+    <style name="Theme.MaterialComponents.DayNight.DarkActionBar">
+
+    </style>
+
+
+</resources>

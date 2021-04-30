@@ -1,6 +1,14 @@
 # Workout
 
-Helps user for doing exercise.
+• The app has workouts for your abs, chest, legs, arms and butt as well as full body
+workouts.None of them need equipment, so there’s no need to go to the gym. Even
+though it just takes a few minutes a day, it can effectively tone your muscles.
+
+
+• Features 
+* Detailed Image for explanation of exercise. 
+* BMI calculator available in metric units & US units. * It tracks your history.
+
 
 
 
